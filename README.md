@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Apaixonado por **programação**, **desenvolvimento de software** e **resolução de problemas**  
-🚀 Atualmente aprendendo **matérias da faculdade**  
+🚀 Atualmente aprendendo **inteligência artificial e dados**  
 📚 Compartilhando meus **projetos acadêmicos** e **pessoais** aqui no GitHub!  
 
 ---
