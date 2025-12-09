@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogurski&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogurski&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 📝 Últimos Projetos
 
 -  [Reinforcement-Learning](https://github.com/PedroGurski/Reinforcement-Learning) — Implementação da iteração de valor e Q-learning. Testando os agentes no Gridworld (da classe) e aplicando a um controlador de robô simulado (Crawler) e Pacman.
