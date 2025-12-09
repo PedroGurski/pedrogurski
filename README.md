@@ -30,6 +30,7 @@
 -  [Reinforcement-Learning](https://github.com/PedroGurski/Reinforcement-Learning) — Implementação da iteração de valor e Q-learning. Testando os agentes no Gridworld (da classe) e aplicando a um controlador de robô simulado (Crawler) e Pacman.
 -  [Multi-Agent-Search](https://github.com/PedroGurski/Multi-Agent-Search) — Desenvolvimento de agentes para o clássico jogo Pac-Man, incorporando a dinâmica de múltiplos agentes, incluindo fantasmas. O objetivo foi aplicar técnicas de busca adversarial e estocástica para melhorar a tomada de decisões do Pac-Man.
 -  [Machine-Learning](https://github.com/PedroGurski/Machine-Learning) — Uma introdução ao aprendizado de máquina. Rede neural para classificar dígitos e mais.
+-  [Clustering](https://github.com/PedroGurski/Clustering-Topicos-IA) — Análise comparativa de algoritmos de clustering em diferentes estruturas de dados. Este projeto implementa e avalia K-Means, DBSCAN e Clusterização Hierárquica utilizando datasets da scikit-learn.
 
 ---
 
